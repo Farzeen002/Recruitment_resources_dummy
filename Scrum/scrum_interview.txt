@@ -1,0 +1,45 @@
+1. What is Scrum and how does it differ from other Agile methodologies?
+
+Scrum is an Agile framework that helps teams work together to deliver valuable products. It emphasizes iterative development, frequent inspection, and adaptation. Unlike other Agile methodologies like Kanban or Extreme Programming, Scrum has defined roles, events, and artifacts.
+
+2. What are the roles in Scrum?
+
+The main roles in Scrum are:
+Product Owner: Represents the stakeholders and ensures that the product backlog is prioritized and contains valuable items.
+Scrum Master: Facilitates the Scrum process, removes impediments, and ensures that the team adheres to Scrum principles and practices.
+Development Team: Self-organizing and cross-functional team responsible for delivering increments of potentially shippable product at the end of each sprint.
+
+3. What is a Sprint in Scrum?
+
+A Sprint is a time-boxed iteration in Scrum, typically lasting 2-4 weeks, where the Development Team works to deliver a potentially shippable product increment. Sprints begin with sprint planning and end with a sprint review and retrospective.
+
+4. What is a Product Backlog?
+
+The Product Backlog is a prioritized list of all desired work on the project. It represents the requirements, enhancements, and fixes that constitute the changes to be made to the product.
+
+5. How do you handle scope changes during a Sprint?
+
+Scope changes are generally not encouraged during a Sprint. However, if absolutely necessary, the Product Owner and the Development Team should discuss the impact of the change on the Sprint Goal and the overall project timeline. If the change is critical, it may require terminating the current Sprint and re-planning.
+
+6. What is the purpose of the Daily Stand-up (Daily Scrum) meeting?
+
+The Daily Stand-up is a short, daily meeting where team members share progress, discuss any obstacles, and plan their work for the day. Its purpose is to promote transparency, identify impediments early, and ensure that the team is aligned towards achieving the Sprint Goal.
+
+7. How do you handle conflicts within the Scrum Team?
+
+As a Scrum Master, I believe in addressing conflicts openly and transparently. I would facilitate a discussion to understand the root cause of the conflict and encourage the team to find a mutually acceptable solution. If necessary, I would involve the Product Owner or other stakeholders to help resolve the conflict.
+
+8. What metrics do you use to measure the success of a Sprint?
+
+Some common metrics used to measure Sprint success include:
+Sprint Burndown Chart: Tracks the remaining work in the Sprint backlog over time.
+Velocity: Measures the amount of work completed by the team in each Sprint.
+Sprint Goal Achievement: Determines whether the Sprint Goal was met and the product increment delivered aligns with stakeholders' expectations.
+
+9. How do you handle a Product Owner who constantly changes priorities mid-Sprint?
+
+I would work closely with the Product Owner to understand the reasons behind the constant changes in priorities and emphasize the importance of stability during the Sprint. I would encourage the Product Owner to communicate any changes as early as possible and help them understand the impact of frequent changes on the team's productivity and morale.
+
+10. What steps do you take to ensure continuous improvement within the Scrum Team?
+
+I actively encourage the team to reflect on their processes and practices during the Sprint Retrospective. I facilitate discussions to identify areas for improvement and help the team implement action items to address them. Additionally, I encourage experimentation and innovation, and I provide opportunities for the team to learn new skills and techniques through training and workshops.
