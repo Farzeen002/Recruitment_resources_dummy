@@ -1,0 +1,27 @@
+Job Description: Scrum Master
+
+Position Overview:
+We are seeking a highly motivated and experienced Scrum Master to join our dynamic team. The Scrum Master will be responsible for facilitating Agile development practices and processes within our organization, ensuring timely delivery of high-quality software products. The ideal candidate will have strong communication and leadership skills, a deep understanding of Agile principles and methodologies, and a proven track record of successfully leading Agile teams.
+
+Key Responsibilities:
+
+Facilitate Agile ceremonies: Lead daily stand-up meetings, sprint planning sessions, sprint reviews, and sprint retrospectives to ensure alignment and collaboration among team members.
+Coach and mentor team members: Provide guidance and support to team members on Agile principles, practices, and processes, fostering a culture of continuous improvement and learning.
+Remove impediments: Identify and address obstacles that may hinder the team's progress, working closely with stakeholders to resolve issues and ensure smooth execution of sprint goals.
+Promote transparency: Maintain visibility into the team's progress by updating and maintaining Agile tools and artifacts such as the backlog, burndown charts, and Kanban boards.
+Foster collaboration: Encourage open communication and collaboration among team members, fostering a culture of trust, accountability, and shared responsibility.
+Drive continuous improvement: Work with the team to identify areas for improvement and implement strategies to enhance productivity, quality, and delivery effectiveness.
+Serve as a servant-leader: Lead by example, demonstrating servant leadership principles and values, and empowering team members to take ownership of their work and decisions.
+Qualifications:
+
+Bachelor's degree in computer science, engineering, or related field.
+Certified Scrum Master (CSM) or equivalent Agile certification.
+Minimum of 3 years of experience as a Scrum Master or Agile Coach in a software development environment.
+Deep understanding of Agile principles and methodologies (Scrum, Kanban, Lean, etc.).
+Strong communication, facilitation, and interpersonal skills, with the ability to effectively engage and influence stakeholders at all levels.
+Proven track record of successfully leading Agile teams and driving continuous improvement.
+Experience with Agile tools and frameworks such as JIRA, Confluence, and Agile reporting tools.
+Ability to thrive in a fast-paced, dynamic environment and adapt quickly to changing priorities and requirements.
+Strong problem-solving and conflict resolution skills, with the ability to address challenges and resolve conflicts effectively.
+Passion for Agile practices and principles, with a commitment to driving organizational agility and delivering customer value.
+Join us in revolutionizing the way we build software and deliver value to our customers. If you are a passionate and experienced Scrum Master looking for an exciting opportunity to make an impact, we want to hear from you!
