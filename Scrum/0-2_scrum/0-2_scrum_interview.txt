@@ -4,7 +4,7 @@ Scrum is an Agile framework that helps teams work together to deliver valuable p
 
 2. What are the roles in Scrum??
 
-The main roles in Scrum are:
+The main roles in Scrum are::
 Product Owner: Represents the stakeholders and ensures that the product backlog is prioritized and contains valuable items.
 Scrum Master: Facilitates the Scrum process, removes impediments, and ensures that the team adheres to Scrum principles and practices.
 Development Team: Self-organizing and cross-functional team responsible for delivering increments of potentially shippable product at the end of each sprint.
